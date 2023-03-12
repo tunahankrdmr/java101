@@ -8,7 +8,6 @@ public class Elmas {
 
         System.out.print("Basamak sayısını giriniz: ");
         int n = myScanner.nextInt();
-        int m = (n - 1);
 
         for (int i = 1; i <= n; i++) {                          // Satır Sayısı
 
