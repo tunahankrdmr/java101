@@ -1,4 +1,4 @@
-package sınıflar;
+package siniflar;
 
 public class Course {
     Teacher courseTeacher;

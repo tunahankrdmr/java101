@@ -1,4 +1,4 @@
-package sınıflar;
+package siniflar;
 
 public class Student {
     String name,stuNo;
